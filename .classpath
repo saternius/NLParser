@@ -2,6 +2,16 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="C:/Users/ajason2/Desktop/PDF Scrapper/pdfbox-2.0.0-RC3-src/pdfbox-app-2.0.0-RC3.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/debugger-app"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/fontbox"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ParseTest"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pdfbox"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pdfbox-app"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pdfbox-debugger"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pdfbox-examples"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pdfbox-tools"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/preflight"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/preflight-app"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/xmpbox"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

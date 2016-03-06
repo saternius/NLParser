@@ -1,4 +1,4 @@
-CHAPTER THREEThe chest radiograph is one of the most commonly obtained examinations in pediatric imaging.
+The chest radiograph is one of the most commonly obtained examinations in pediatric imaging.
 It is also the examination most likely to be encountered by radiology residents, pediatric residents, general radiologists, and pediatricians.
 Therefore, topics such as chest imaging in neonates and the evaluation of suspected pneumonia are discussed in detail.
 Causes of respiratory distress in newborn infants can be divided into those that are secondary to diffuse pulmonary disease (medical causes) and those that are secondary to a space-occupying mass compressing the pulmonary parenchyma (surgical causes).
@@ -11,66 +11,41 @@ Classically, cases fall into one of the following two categories: (1) cases with
 This is more of a guideline, rather than a rule, because many neonates with diffuse pulmonary disease have normal lung volumes.
 The differential diagnosis for cases with high lung volumes and streaky perihilar densities includes meconium aspiration, transient tachypnea of the newborn, and neonatal pneumonia.
 Most of the neonates in this group are term.
-The differential for cases with low lung volumes and granular opacities includes surfactant deficiency and b-hemolytic streptococcal pneumonia.
+The differential for cases with low lung volumes and granular opacities includes surfactant deficiency and -hemolytic streptococcal pneumonia.
 Most of these neonates are premature.
 Meconium aspiration syndrome results from intrapartum or intrauterine aspiration of meconium.
 It usually occurs secondary to stress, such as hypoxia, and more often occurs in term or postmature neonates.
 The aspirated meconium causes both obstruction of small airways secondary to its tenacious nature and also chemical pneumonitis.
 The degree of respiratory failure can be severe.
-Radiographic findings include hyperinflation (high lung volumes), which may be asymmetric and patchy, and asymmetric lung densities that tend to have a ropy appearance and a perihilar distribution.
+Radiographic findings include hyperinflation (high lung volumes), which may be asymmetric and patchy, and asymmetric lung densities that tend to have a ropy appearance and a perihilar distribution .
 Commonly there are areas of hyperinflation alternating with areas of atelectasis.
 Pleural effusions can be present.
 Because of the smallairway obstruction by the meconium, air-block complications are common, with pneumothorax occurring in 20% to 40% of cases.
 Meconium aspiration syndrome is relatively common; 25,000 to 30,000 cases occur in the United States annually.
 Transient tachypnea of the newborn (TTN) is also referred to by a variety of other names, including wet lung disease and transient respiratory distress.
 It occurs secondary to delayed clearance of fetal lung fluid.
-Physiologically, the clearing of fetal lung fluid is facilitated by the ‘‘thoracic squeeze’’ during vaginal deliveries; therefore, most cases of TTN are related to 26 cesarean section in which the thoracic squeeze is bypassed.
+Physiologically, the clearing of fetal lung fluid is facilitated by the ‘‘thoracic squeeze’’ during vaginal deliveries; therefore, most cases of TTN are related to cesarean section in which the thoracic squeeze is bypassed.
 Other causes include maternal diabetes and maternal sedation.
 The hallmark of TTN is a benign course.
 Respiratory distress develops by 6 hours of age, peaks at 1 day of age, and is resolved by 2 to 3 days.
 There is a spectrum of radiographic findings similar to those seen with mild to severe pulmonary edema.
-There is a combination of airspace opacification, coarse interstitial markings, prominent and indistinct pulmonary vasculature, fluid in the fissures, pleural effusion, and cardiomegaly.
+There is a combination of airspace opacification, coarse interstitial markings, prominent and indistinct pulmonary vasculature, fluid in the fissures, pleural effusion, and cardiomegaly .
 Lung volumes are normal to increased.
 Neonatal pneumonia can be caused by a large number of infectious agents that can be acquired intrauterine, during birth, or soon after birth.
-With the exception of b-hemolytic streptococcal pneumonia, which will be discussed separately, the radiographic appearance of neonatal pneumonia is that of patchy, asymmetric perihilar densities and hyperinflation.
-Pleural effusions may be present.
+With the exception of -hemolytic streptococcal pneumonia, which will be discussed separately, the radiographic appearance of neonatal pneumonia is that of patchy, asymmetric perihilar densities and hyperinflation .
+Pleural effusions may be present .
 Such cases of neonatal pneumonia may have a similar radiographic appearance to and be indistinguishable from meconium aspiration syndrome when using imaging alone.
-Surfactant-Deficient Disease Surfactant-deficient disease (SDD; also referred to as respiratory distress syndrome or hyaline membrane disease) is a common disorder, with approximately 40,000 new cases annually in the United States.
+Surfactant-deficient disease (SDD; also referred to as respiratory distress syndrome or hyaline membrane disease) is a common disorder, with approximately 40,000 new cases annually in the United States.
 It is primarily a disease of premature infants, affecting up to 50% of them, and it is the most common cause of death in live newborns.
 SDD is related to the inability of premature type II pneumocytes to produce surfactant.
 Normally, surfactant coats the alveolar surfaces and decreases surface tension, allowing for the alveoli to remain open.
 As a result of the lack of surfactant, there is alveolar collapse, resulting in noncompliant lungs.
-The radiographic findings reflect these pathologic changes.
-TABLE 3-1.
-Differential Diagnosis of Diffuse Pulmonary Disease in theHigh lung volumes, streaky perihilar densities Low lung volumes, granular opacities Meconium aspiration syndrome Transient tachypnea of the newborn Neonatal pneumonia Surfactant deficiency b-hemolytic streptococcal pneumonia FIGURE 3-1.
-Meconium aspiration syndrome.
-Newborn chest radiograph shows normal to large lung volumes, increased perihilar markings, and bilateral, coarse, ropy markings.
-Note right pleural effusion (arrow).
-FIGURE 3-2.
-Transient tachypnea of the newborn.
-Newborn chest radiograph shows normal lung volumes, cardiomegaly, indistinct pulmonary vascularity, and fluid in the minor fissure (arrow).
-Within 24 hours the patient was asymptomatic.
-Chest • 27 Lung volumes are low.
+The radiographic findings reflect these pathologic changes .
+Lung volumes are low.
 There are bilateral granular opacities that represent collapsed alveoli interspersed with open alveoli.
 Because the larger bronchi do not collapse, there are prominent air bronchograms.
 When the process is severe enough and the majority of alveoli are collapsed, there may be coalescence of the granular opacities, resulting in diffuse lung opacity.
-FIGURE 3-3.
-Neonatal pneumonia.
-Newborn chest radiograph shows large lung volumes and coarse, bilateral perihilar markings.
-FIGURE 3-4.
-Neonatal pneumonia.
-Newborn chest radiograph shows large lung volumes and coarse, bilateral perihilar markings.
-Note right pleural effusion (arrow).
-Also note umbilical venous catheter with tip into right atrium.
-Tip should be at the junction of the right atrium and inferior vena cava.
-FIGURE 3-5.
-Surfactant-deficient disease responding to surfactant therapy.
-A, Radiograph shortly after birth shows low lung volumes, confluent densities, and prominent air bronchograms.
-Note the umbilical venous catheter (arrow) with tip in intrahepatic intravenous catheter.
-B, Radiograph obtained immediately following surfactant administration shows increased lung volumes and decreased lung opacities.
-The umbilical venous catheter was removed in the interim.
-Note the umbilical venous catheter (arrow) in ‘‘low’’-type position, with tip at L4.
-28 • Pediatric Imaging: The Fundamentals A normal film at 6 hours of age excludes the presence of SDD.
+A normal film at 6 hours of age excludes the presence of SDD.
 One of the therapies for SDD is surfactant administration.
 Surfactant can be administered via nebulized or aerosol forms.
 It is administered into the trachea via a catheter or an adapted endotracheal tube.
@@ -78,27 +53,23 @@ The administration of surfactant in neonates with SDD has been shown to be assoc
 However, there is an associated increased risk for development of patent ductus arteriosus and pulmonary hemorrhage, and there can be an acute desaturation episode in response to surfactant administration.
 Surfactant administration can be given on a rescue basis when premature neonates develop respiratory distress or can be given prophylactically in premature infants who are at risk.
 Prophylactic administration is commonly given immediately after birth and is becoming a more common practice.
-In response to surfactant administration, radiography may demonstrate complete, central, or asymmetric clearing of the findings of SDD.
+In response to surfactant administration, radiography may demonstrate complete, central, or asymmetric clearing of the findings of SDD .
 There is usually an increase in lung volumes.
 Neonates without radiographic findings of a response to surfactant have poorer prognoses than those who have radiographic evidence of a response.
 A pattern of alternating distended and collapsed acini may create a radiographic pattern of bubblelike lucencies that can mimic pulmonary interstitial emphysema.
 Knowledge of when surfactant has been administered is helpful in rendering accurate interpretation of chest radiographs taken in the neonatal intensive care unit (NICU).
-b-Hemolytic Streptococcalb-hemolytic (group B) streptococcal pneumonia is the most common type of pneumonia in neonates.
+-hemolytic (group B) streptococcal pneumonia is the most common type of pneumonia in neonates.
 The infection is acquired during birth, and at least 25% of women in labor are colonized by the organism.
 Premature infants are more commonly infected than are term infants.
-In contrast to the other types of neonatal pneumonias, the radiographic findings include bilateral granular opacities and low lung volumes, the identical findings in surfactant-deficient disease.
-The presence of pleural fluid is a helpful differentiating factor because it is very uncommon in surfactant deficiency but has been reported in between 25% and 67% of cases of b-hemolytic streptococcal pneumonia.
+In contrast to the other types of neonatal pneumonias, the radiographic findings include bilateral granular opacities and low lung volumes , the identical findings in surfactant-deficient disease.
+The presence of pleural fluid is a helpful differentiating factor because it is very uncommon in surfactant deficiency but has been reported in between 25% and 67% of cases of -hemolytic streptococcal pneumonia.
 Persistent pulmonary hypertension in the neonate, also referred to as persistent fetal circulation, is a term often used in the NICU and is addressed here because it can be a source of confusion.
 The high pulmonary vascular resistance that is normally present in the fetus typically decreases during the newborn period.
 When this fails to happen, the pulmonary pressures remain abnormally high, and the condition is referred to as persistent pulmonary hypertension.
 It is a physiologic finding rather than a specific disease.
 It can be a primary phenomenon or it can occur secondary to causes of hypoxia, such as meconium aspiration syndrome, neonatal pneumonia, or pulmonary hypoplasia associated with congenital diaphragmatic hernia.
 These patients are quite ill.
-The radiographic patterns are variable and are more often FIGURE.
-3-6.
-b-Hemolytic streptococcal pneumonia.
-Radiograph shows low lung volumes and diffuse granular opacities, similar in appearance to cases of surfactant deficiency.
-Chest • 29 reflective of the underlying cause of hypoxia than the presence of persistent pulmonary hypertension.
+The radiographic patterns are variable and are more often reflective of the underlying cause of hypoxia than the presence of persistent pulmonary hypertension.
 One of the primary roles of chest radiography in the NICU is to monitor support apparatus.
 They include endotracheal tubes, enteric tubes, central venous lines, umbilical arterial and venous catheters, and extracorporeal membrane oxygenation (ECMO) catheters.
 The radiographic evaluation of many of these tubes is the same as that seen in adults and is not discussed here.
@@ -110,30 +81,24 @@ Although it would seem that esophageal intubation would be incredibly obvious cl
 I have seen cases in which a child has in retrospect been discovered to have been esophageally intubated for more than 24 hours.
 Therefore, the radiologist may be the first to recognize esophageal intubation.
 Obviously, when the course of the endotracheal tube does not overlie the path of the trachea, the use of esophageal intubation is fairly obvious.
-Other findings of esophageal intubation include a combination of low lung volumes, gas within the esophagus, and gaseous distention of the bowel.
+Other findings of esophageal intubation include a combination of low lung volumes, gas within the esophagus, and gaseous distention of the bowel .
 Umbilical arterial and venous catheters are commonly used in the NICU.
 Umbilical arterial catheters pass from the umbilicus inferiorly into the pelvis via the umbilical artery to the iliac artery.
-The catheters then turn cephalad within the aorta.
+The catheters then turn cephalad within the aorta .
 These catheters can be associated with thrombosis of the aorta and its branches.
 Therefore, it is important to avoid positioning the catheter with the tip at the level of the branches of the aorta (celiac, superior mesenteric, and renal arteries).
-There are two acceptable umbilical arterial catheter positions: high lines have their tips at the level of the descending thoracic aorta (T8-T10; see Fig.
-3-9); low lines have their tips below the level of L3.
+There are two acceptable umbilical arterial catheter positions: high lines have their tips at the level of the descending thoracic aorta ; low lines have their tips below the level of L3 .
 The catheter tip should not be positioned between T10 and L3 because of the risk for major arterial thrombosis.
 There is no clear consensus as to whether a high or a low umbilical artery catheter line is better, and both positions are still currently used.
-The pathway of the umbilical venous catheter is umbilical vein to left portal vein to ductus venosus to hepatic vein to inferior vena cava.
+The pathway of the umbilical venous catheter is umbilical vein to left portal vein to ductus venosus to hepatic vein to inferior vena cava .
 In contrast to umbilical arterial catheters, the course is in the superior direction from the level of the umbilicus.
-The ideal position of an umbilical venous catheter is with its tip at the junction of the right atrium and the inferior vena cava at the level of the hemidiaphragm FIGURE 3-7.
-Esophageal intubation in a 6-day-old girl.
-Chest radiograph obtained after reintubation shows the endotracheal tube overlying the expected location of the midtrachea.
-However, there are low lung volumes, gas within the esophagus (arrows), and multiple air-filled and distended bowel loops.
-30 • Pediatric Imaging: The Fundamentals (see Figs.
-3-4, 3-5).
+The ideal position of an umbilical venous catheter is with its tip at the junction of the right atrium and the inferior vena cava at the level of the hemidiaphragm .
 The umbilical venous catheter may occasionally deflect into the portal venous system rather than passing into the ductus venosus.
 Complications of such positioning can include hepatic hematoma or abscess.
 One of the more common lines now seen in children, as in adults, is peripherally inserted central catheters (PICCs).
 In contrast to adults, in whom some of the PICCs can be as large as 6F, the PICC lines used in children, particularly infants, are often small in caliber (2F or 3F) so that they can be placed into their very small peripheral veins.
 These small caliber PICCs can be very difficult to see on chest radiography, so some of them must be filled with contrast to be accurately visualized.
-The tip of the PICC line that enters the child from the upper extremity or scalp should be positioned with the tip in the midlevel of the superior vena cava.
+The tip of the PICC line that enters the child from the upper extremity or scalp should be positioned with the tip in the midlevel of the superior vena cava .
 It is essential that PICC lines not be left in place with the tip well into the right atrium.
 Particularly with the small-caliber lines, the atrium can be lacerated, leading to pericardial tamponade, free hemorrhage, or death.
 Many such cases have been reported nationally.
@@ -148,19 +113,14 @@ ECMO seems to be used less commonly now than it was in the 1990s.
 There are two types of ECMO: arteriovenous and venovenous.
 In ateriovenous ECMO, the right common carotid artery and internal jugular veins are sacrificed.
 The arterial catheter is placed via the carotid and positioned with its tip overlying the aortic arch.
-The venous catheter is positioned with its tip over the right atrium.
+The venous catheter is positioned with its tip over the right atrium .
 One of the main roles of a chest radiograph of children on ECMO is to detect any potential migration of the catheters.
 Careful comparison with previous studies to make sure that the catheters are not coming out or moving too far in is critical.
 These patients have many bandages and other items covering the external portions of the catheters, so migration may be hard to detect on physical examination.
 Note that there are various radiographic appearances of the ECMO catheters.
-Some catheters end where the radiopaque portion of the tube ends, and others have a radiolucent portion with a small metallic marker at the tip.
-It is common to see white-out of the lungs soon after a patient is placed on ECMO as a result of decreased ventilator settings andFIGURE 3-8.
-Anatomy of the course of the umbilical vein (UV) catheter as demonstrated by contrast injection of umbilical catheter performed because of inability to advance UV catheter.
-Note course of umbilical vein to portal vein to ductus venosus (DV; arrow).
-LPV, left portal vein; RPV, right portal vein.
-Chest • 31 third-space shifting of fluid.
+Some catheters end where the radiopaque portion of the tube ends, and others have a radiolucent portion with a small metallic marker at the tip .
+It is common to see white-out of the lungs soon after a patient is placed on ECMO as a result of decreased ventilator settings and third-space shifting of fluid .
 Patients on ECMO are anticoagulated and are therefore at risk for hemorrhage.
-Types of Ventilation: High-Frequency Oscillator vs.
 High-frequency oscillators are commonly used to treat neonates in the NICU.
 In contrast to conventional ventilation, high-frequency oscillators use supraphysiologic rates of ventilation with very low tidal volumes.
 Conventional ventilation has been likened to delivering a cupful of air approximately 20 times a minute.
@@ -177,20 +137,13 @@ Imaging findings of lobar collapse and air-block complications such as pneumotho
 One type of air-block complication that is unique to neonates is pulmonary interstitial emphysema.
 In patients with severe surfactant deficiency, ventilatory support can result in marked increases in alveolar pressure, leading to perforation of alveoli.
 The air that escapes into the adjacent interstitium and lymphatics is referred to as pulmonary interstitial emphysema (PIE).
-PIE appears on radiographs as bubblelike or linear lucencies and can be focal or diffuse.
+PIE appears on radiographs as bubblelike or linear lucencies and can be focal or diffuse .
 The involved lung is usually noncompliant and is seen to have a static volume on multiple consecutive films.
 The finding is typically transient.
 The importance of detecting PIE is that it serves as a warning sign for other impending air-block complications such as pneumothorax, and its presence can influence caregivers in decisions such as switching from conventional to high-frequency ventilation.
 It can be difficult to differentiate diffuse PIE from the bubblelike lucencies that are associated with developing bronchopulmonary dysplasia.
 When encountering this scenario, the patient’s age can help to determine which is more likely.
-Most cases of PIE occur in the first weekFIGURE 3-9.
-ECMO catheter placement for meconium aspiration syndrome (same child as in Fig.
-3-1).
-Note venous ECMO catheter (VC) has a radiopaque proximal portion and a lucent distal portion.
-The tip of the venous catheter is marked by a small radiopaque metallic marker (arrow) and is actually in the right atrium.
-Note the arterial ECMO catheter (AC) with tip in region of aortic arch.
-Also, note ‘‘high’’-type umbilical arterial catheter with tip overlying descending aorta at the level of T8.
-32 • Pediatric Imaging: The Fundamentals of life, a time at which bronchopulmonary dysplasia is very unlikely.
+Most cases of PIE occur in the first week of life, a time at which bronchopulmonary dysplasia is very unlikely.
 In patients older than 2 weeks, bronchopulmonary dysplasia is more likely.
 Also, in patients who have undergone a series of daily films, PIE may be noted to occur abruptly, whereas bronchopulmonary dysplasia tends to occur gradually.
 As previously mentioned, SDD partially treated by surfactant replacement can cause a pattern of lucencies that may mimic PIE as well.
@@ -200,19 +153,10 @@ Often, the diagnosis is indicated by sequential radiography showing evolution of
 In unclear cases, CT demonstrates that the air cysts are in the interstitial space by showing the bronchovascular bundles being positioned within the center of the air cysts.
 The bronchovascular bundles appear as linear or nodular densities in the center of the cysts.
 Acute diffuse pulmonary consolidation is nonspecific in neonates, as it is in adults, and can represent blood, pus, or water.
-In the neonate, the specific considerations include edema, which may be secondary to the development of patent ductus arteriosus; pulmonary hemorrhage, to which surfactant therapy predisposes; worsening surfactant deficiency (during the first several days of life but not later); or developing neonatal pneumonia (Table 3-2).
-Diffuse microatelectasis is another possibility because neonates have the propensity to artifactually demonstrate diffuse lung opacity on low lung volume films (expiratory technique; Fig.
-3-12A.
-B); this should not be mistaken for another cause of consolidation.
+In the neonate, the specific considerations include edema, which may be secondary to the development of patent ductus arteriosus ; pulmonary hemorrhage, to which surfactant therapy predisposes; worsening surfactant deficiency (during the first several days of life but not later); or developing neonatal pneumonia (Table 3-2).
+Diffuse microatelectasis is another possibility because neonates have the propensity to artifactually demonstrate diffuse lung opacity on low lung volume films ; this should not be mistaken for another cause of consolidation.
 Such radiographs showing low lung volumes offer little information concerning the pulmonary status of the patient and should be repeated when clinically indicated.
-FIGURE 3-10.
-Pulmonary interstitial emphysema in a premature infant with congenital heart disease.
-Chest radiograph shows asymmetric bubblelike lucencies within the left upper lobe consistent with PIE.
-Note left pneumothorax (arrow) and right upper lobe collapse (RUL).
-FIGURE 3-11.
-Patent ductus arteriosus (PDA) leading to congestive heart failure in a 1-week-old premature neonate.
-A, Prior to development of PDA, radiograph shows normal-sized heart and clear lungs; B, After development of PDA, radiograph shows cardiac enlargement and bilateral lung consolidation.
-Chest • 33Bronchopulmonary dysplasia (BPD) is also referred to as chronic lung disease of prematurity.
+Bronchopulmonary dysplasia (BPD) is also referred to as chronic lung disease of prematurity.
 It is a common complication seen in premature infants and is associated with significant morbidity rates.
 It is uncommon in children born at greater than 32 weeks of gestational age, but it occurs in more than 50% of premature infants born at less than 1000 g.
 BPD is the most common chronic lung disease of infancy.
@@ -220,7 +164,7 @@ BPD is related to injury to the lungs that is thought to result from some combin
 Although four discrete and orderly stages of the development of BPD were originally described, they are not seen commonly and are probably not important to know.
 BPD typically occurs in a premature infant who requires prolonged ventilator support.
 At approximately the end of the second week of life, persistent hazy density appears throughout the lungs.
-Over the next weeks to months, a combination of coarse lung markings, bubblelike lucencies, and asymmetric aeration can develop.
+Over the next weeks to months, a combination of coarse lung markings, bubblelike lucencies, and asymmetric aeration can develop .
 Eventually, focal lucencies, coarse reticular densities, and bandlike opacities develop.
 In childhood survivors of BPD, many of these radiographic findings decrease in prominence over the years and only hyperaeration may persist.
 The radiographic findings may completely resolve.
@@ -233,17 +177,12 @@ In contrast to diffuse pulmonary disease in newborns, focal masses can present w
 Most of these focal masses are related to congenital lung lesions.
 Congenital lung lesions may appear solid, as air-filled cysts, or mixed in appearance.
 The differential for a focal lung lesion can be separated on the basis of whether the lesion is lucent or solid appearing on chest radiography (Table 3-3).
-The most likely TABLE 3-2.
-Causes of Acute DiffuseEdema: patent ductus arteriosusDiffuse microatelectasis: artifact Worsening surfactant deficiency (only during first days of life)FIGURE 3-12.
-Expiratory chest radiograph mimicking heart failure in infant.
-A, Initial radiograph shows prominent size of cardiothymic silhouette, indistinctness of pulmonary vascularity, and low lung volumes.
-B, Repeat radiograph obtained immediately after A shows clear lungs and normal heart size.
-34 • Pediatric Imaging: The Fundamentals considerations for a lucent chest lesion in a newborn are congenital lobar emphysema, congenital cystic adenomatoid malformation, persistent pulmonary interstitial emphysema, and congenital diaphragmatic hernia.
+The most likely considerations for a lucent chest lesion in a newborn are congenital lobar emphysema, congenital cystic adenomatoid malformation, persistent pulmonary interstitial emphysema, and congenital diaphragmatic hernia.
 CT may be helpful in differentiating among these lesions by demonstrating whether the abnormal lucency is related to air in distended alveoli, in the interstitium, or in abnormal cystic structures.
 Lesions that typically appear solid during the neonatal period include sequestration and bronchogenic cyst.
 Many of these lesions can present in children beyond the neonatal period, and those aspects of these entities are also discussed here.
 The following sections are divided into specific congenital lesions.
-However, it has been increasingly recognized that there can be ‘‘mixed’’ lesions, which show characteristics of more than one type of lesions.
+However, it has been increasingly recognized that there can be ‘‘mixed’’ lesions, which show characteristics of more than one type of lesions .
 The most common mixed lesions are those that show characteristics of both congenital cystic adenomatoid malformation and sequestration.
 It is also worth mentioning that there has been a change in the way these lesions present that is related to the increased use of prenatal ultrasound and magnetic resonance (MR) imaging.
 Historically, congenital lung lesions were identified only when the infant became symptomatic.
@@ -253,18 +192,12 @@ This has raised issues related to when and whether to perform surgical treatment
 Congenital lobar emphysema is related to overexpansion of alveoli, but the mechanism is debated.
 Some reports suggest a ball-valve type of anomaly in the bronchus leading to the affected lung, which causes progressive air trapping.
 Most cases present with respiratory distress during the neonatal period; 50% present within the first month, and 75% present within the first 6 months of life.
-There can be associatedFIGURE 3-13.
-Bronchopulmonary dysplasia in a premature neonatal girl.
-A, Chest radiograph at 14 days of life shows persistent bilateral lung opacities.
-B, Chest radiograph at 20 days of life shows coarsening of the lung markings.
-C, Chest radiograph at 28 days of life shows increased coarse lung markings and development of diffuse bubblelike lucencies.
-TABLE 3-3.
-Focal Lung Lesions in Neonates on RadiographyCongenital lobar emphysema Congenital cystic adenomatoid malformation Persistent pulmonary interstitial emphysema Congenital diaphragmatic herniaBronchogenic cyst Congenital cystic adenomatoid malformation Chest • 35 anomalies, usually cardiac, but they occur in the minority of patients with congenital lobar emphysema.
+There can be associated anomalies, usually cardiac, but they occur in the minority of patients with congenital lobar emphysema.
 There is a lobar predilection; the most common site is the left upper lobe (43%), followed by the right middle lobe (35%) and right lower lobe (21%), with less than 1% in each of the other lobes.
-On chest radiography, a hyperlucent, hyperexpanded lobe is seen.
+On chest radiography, a hyperlucent, hyperexpanded lobe is seen .
 On initial radiographs, the lesion may appear to be a soft tissue density because of retained fetal lung fluid.
 This density resolves and is replaced by progressive hyperlucency.
-On CT, the air is in the alveoli, so the interstitial septa and bronchovascular bundles are at the periphery (not the center) of the lucency.
+On CT, the air is in the alveoli, so the interstitial septa and bronchovascular bundles are at the periphery (not the center) of the lucency .
 The air spaces are larger than those in the adjacent normal lung, and the pulmonary vessels appear attenuated.
 The treatment is lobectomy.
 Congenital cystic adenomatoid malformation (CCAM) is a congenital adenomatoid proliferation that replaces normal alveoli.
@@ -278,38 +211,28 @@ There are some who are now advocating the nomenclature congenital pulmonary airw
 Who are these people and don’t they have anything better to do? The classification system has no clinical relevance except that it helps us remember that CCAM can have multiple appearances when imaged.
 The imaging appearance reflects the type.
 CCAMs communicate with the bronchial tree at birth and therefore fill with air within the first hours to days of life.
-On radiography and CT, a completely cystic, mixed cystic and solid, or completely solid mass is seen depending on the number and size of cysts and whether those cysts contain air or fluid (Figs.
-3-15A-C, 3-16A-C).
+On radiography and CT, a completely cystic, mixed cystic and solid, or completely solid mass is seen depending on the number and size of cysts and whether those cysts contain air or fluid .
 The management of symptomatic CCAM is surgical resection.
 The management of asymptomatic CCAM is currently somewhat controversial.
 However, most caregivers advocate elective resection because these lesions are at increased risk for infection and, rarely, may develop malignancy.
 A scenario encountered with increasing frequency is a prenatally diagnosed lung mass that becomes less prominent on serial prenatal ultrasounds or MR examinations and demonstrates only subtle findings or is not detected on a chest radiograph obtained soon after birth.
-FIGURE 3-14.
-Congenital lobar emphysema.
-A, Radiograph obtained at 1 day of age shows diffuse lucency and enlargement of left upper lobe (arrows).
-B, CT scan shows hyperlucent and enlarged left upper lobe with asymmetric attenuation of vascular structures and increased space between interstitial septa.
-36 • Pediatric Imaging: The Fundamentals Almost all such lesions are type 2 CCAMs and demonstrate abnormalities on CT, even in light of a normal chest radiograph.
-Many CCAMs identified prenatally are followed with MR imaging, and much has been learned about the nature of these lesions.
+Almost all such lesions are type 2 CCAMs and demonstrate abnormalities on CT, even in light of a normal chest radiograph.
+Many CCAMs identified prenatally are followed with MR imaging , and much has been learned about the nature of these lesions.
 CCAMs tend to increase in size until approximately 25 weeks of gestation.
 The mass of the CCAMs then tends to regress over time, sometimes dramatically.
 Compression of the contralateral lung by a large mass and development of fetal hydrops are associated with high mortality rates.
 Fetal intervention is typically reserved for cases with hydrops; management options include dominant cyst aspiration and fetal surgery with resection of the lesion.
-Recently, trials using maternal steroids have shown promise in shrinking the CCAM volumes and avoiding otherCongenital diaphragmatic hernias (CDHs) are usually secondary to posterior defects in the diaphragm (Bochdalek hernia) and are more common on the left side by a ratio of 5 to 1.
+Recently, trials using maternal steroids have shown promise in shrinking the CCAM volumes and avoiding other interventions.
+Congenital diaphragmatic hernias (CDHs) are usually secondary to posterior defects in the diaphragm (Bochdalek hernia) and are more common on the left side by a ratio of 5 to 1.
 Most infants with CDHs present at birth with severe respiratory distress.
 The hernia may contain stomach, small bowel, colon, or liver.
 The radiographic appearance depends on the hernia contents and on whether there is air within the herniated viscera.
 On initial radiographs, prior to the introduction of air into the viscera, the appearance may be radiopaque.
-FIGURE 3-15.
-Type 1 congenital cystic adenomatoid malformation.
-A, Coronal fetal MR image shows hyperexpanded, high-signal lesion (arrows) in left lobe.
-Note lower signal in normal right lung (R).
-B, Chest radiograph after birth shows lucent, multicystic lesion in left lung with rightward mediastinal shift.
-C, CT soon after birth shows large, lucent, multicystic lesion in left lung.
-Chest • 37 Later, and more commonly, the herniated viscera contain air and the hernia appears as an air-containing cystic mass.
-Less air-filled viscera in the abdomen than expected and an abnormal position of support apparatus, such as a nasogastric tube within a herniated stomach, are obvious clues that support the diagnosis.
+Later, and more commonly, the herniated viscera contain air and the hernia appears as an air-containing cystic mass.
+Less air-filled viscera in the abdomen than expected and an abnormal position of support apparatus, such as a nasogastric tube within a herniated stomach, are obvious clues that support the diagnosis .
 Often a nasogastric tube becomes lodged at the esophagogastric junction because of the acute turn in the herniated stomach.
 This can be a supportive finding of the diagnosis.
-The diagnosis of CDH is commonly made prenatally by ultrasound and further evaluated by fetal MR imaging.
+The diagnosis of CDH is commonly made prenatally by ultrasound and further evaluated by fetal MR imaging .
 The mortality rate for CDH is related to the degree of pulmonary hypoplasia.
 Systems of calculating lung volumes and predicting mortality have been devised for use with fetal ultrasound, fetal MR imaging, and postnatal radiography.
 Radiographic predictors of poor prognoses include lack of aerated ipsilateral lung, low percentage of aerated contralateral lung, and severe mediastinal shift.
@@ -318,19 +241,10 @@ The reported mortality rates associated with CDH range from 12% to 50%.
 One factor contributing to mortality is the presence of associated abnormalities, which are reported in a high percentage of infants born with CDH.
 One report suggests that as many as 50% of patients with CDH have associated congenital heart disease.
 By the nature of the herniated bowel into the chest, most patients with CDH have associated malrotation.
-FIGURE 3-16.
-Mixed lesion with components of both CCAM and sequestration seen at pathology.
-A, Chest radiograph obtained for multiple infections in young child shows bandlike opacity (arrow) in left lower lobe.
-It had been present on multiple radiographs.
-B, CT scan shows multicystic, air-filled lesion (arrow) in left lower lobe, suggestive of CCAM.
-C, CT reformat shows systemic arterial feeder (F) arising from aorta (A) and extending into lesion.
-Findings are characteristic of sequestration.
-Note draining pulmonary vein (V).
-38 • Pediatric Imaging: The FundamentalsThe term pulmonary sequestration refers to an area of congenital abnormal pulmonary tissue that does not have a normal connection to the bronchial tree.
-The characteristic imaging feature of sequestration is the demonstration of an anomalous arterial supply to the abnormal lung via a systemic artery arising from the aorta (Fig.
-3-19A-C).
+The term pulmonary sequestration refers to an area of congenital abnormal pulmonary tissue that does not have a normal connection to the bronchial tree.
+The characteristic imaging feature of sequestration is the demonstration of an anomalous arterial supply to the abnormal lung via a systemic artery arising from the aorta .
 All modalities that can demonstrate this abnormal systemic arterial supply, including MR imaging, helical CT, ultrasound, and arteriography, have been advocated in making the diagnosis of sequestration.
-However, contrast-enhanced helical CT is preferred because it both visualizes the systemic arterial supply when a sequestration is present and further characterizes the lung abnormality if a sequestration is not present.
+However, contrast-enhanced helical CT is preferred because it both visualizes the systemic arterial supply when a sequestration is present  and further characterizes the lung abnormality if a sequestration is not present.
 Sequestration most commonly presents with recurrent pneumonia, usually in late childhood.
 Other presentations include a prenatally diagnosed lung mass or respiratory distress in the newborn period.
 Because sequestrations do not communicate with the bronchial tree unless they become infected, they usually appear as radiopaque masses during the neonatal period.
@@ -338,20 +252,7 @@ After infection has occurred, air may be introduced and sequestration may appear
 The most common location is within the left lower lobe.
 There has been much discussion concerning differentiation between intralobar and extralobar sequestrations.
 Extralobar sequestrations have a separate pleural covering, whereas intralobar sequestrations, which are more common, do not; however, the presence or absence of an extrapleural covering cannot be determined at imaging.
-Extralobar sequestrations are associated with other abnormalities in 65% ofFIGURE 3-17.
-Congenital diaphragmatic hernia.
-Radiograph shows stomach (S) containing tip of nasogastric tube (arrow) in left hemithorax.
-There is no visualized aerated bowel in the upper abdomen.
-There is mediastinal shift to the right.
-Contralateral lung is well-aerated.
-FIGURE 3-18.
-Congenital diaphragmatic hernia.
-A, Fetal MR image in coronal plane shows high signal content in multiple bowel loops (arrows) in left hemithorax.
-B, Chest radiograph after birth shows multiple bubblelike lucencies in left hemithorax.
-Note that in this case the stomach and nasogastric tube tip are not in the hernia.
-There is mediastinal shift to the right.
-The left upper lobe and right lung are well-aerated.
-Chest • 39 cases, whereas intralobar sequestrations are not.
+Extralobar sequestrations are associated with other abnormalities in 65% of cases, whereas intralobar sequestrations are not.
 Differences in venous drainage patterns between intra- and extralobar sequestrations have been emphasized as a differentiating factor but are actually variable with both types.
 The differentiation between intra- and extralobar sequestration cannot be made at imaging and does not affect surgical management.
 Visualization of the supplying systemic artery is the characteristic finding and is the documentation the surgeons are looking for prior to surgically removing the lesion.
@@ -361,16 +262,9 @@ When bronchogenic cysts occur in the lungs, they are most commonly central in lo
 Bronchogenic cysts are almost always solitary lesions; multiple bronchogenic cysts are very uncommon.
 Because of the propensity for middle mediastinal and perihilar locations, compression of the distal trachea or bronchi is not an uncommon presentation.
 Air trapping in the lung distal to the lesion can occur.
-Like sequestrations, they do not contain air until they become infected and therefore may appear as well-defined soft tissue attenuation or cystic air-fluid-containing masses.
-FIGURE 3-19.
-Sequestration.
-A, Chest radiograph obtained for repeated infections shows right lower lobe asymmetric opacity.
-B, CT shows feeding systemic arterial supply (arrows) arising from aorta and extending to lesion in right lower lobe.
-C, CT at lung windows shows right lower lobe air-filled cystic lesion.
-The air-filled cysts raise the possibility of a mixed CCAM/sequestration lesion.
-Again noted is the systemic arterial supply (arrow).
-40 • Pediatric Imaging: The Fundamentals They can be quite large.
-They appear as well-defined cystic structures on imaging.
+Like sequestrations, they do not contain air until they become infected and therefore may appear as well-defined soft tissue attenuation or cystic air-fluid-containing masses .
+They can be quite large.
+They appear as well-defined cystic structures on imaging .
 Respiratory tract infection is the most common cause of illness in children and continues to be a significant cause of morbidity and mortality.
 Evaluation of suspected community-acquired pneumonia is one of the most common indications for imaging in children.
 Because of the frequency with which this scenario arises, knowledge of the issues concerning the imaging of children with community-acquired pneumonia is important.
@@ -383,13 +277,8 @@ Because of the inaccuracy of physical examination, radiography is often requeste
 Several studies have shown that in a large percentage of cases, findings on chest radiography change caregivers’ diagnoses and treatment plans (antibiotics, bronchodilators, and patient disposition) for children being evaluated for potential pneumonia.
 At our institution, we obtain both a frontal and a lateral film in the evaluation of a child with suspected pneumonia.
 It has been shown that obtaining both views increases the negative predictive value of chest radiography for pneumonia.
-In addition, some findings such as hyperinflation in an infant are much more easily evaluated on the lateral than on the frontal views.
-The historic emphasis in textbooks and articles concerning pneumonia has been on radiographic patterns that suggest a specific infectiousFIGURE 3-20.
-Viral lower respiratory infection in a young child.
-A, Frontal view shows increased perihilar markings and bandlike density (arrow) in right middle lobe, representing subsegmental atelectasis.
-B, Lateral view better shows marked hyperinflation with flattened hemidiaphragms, increased anterior-to-posterior diameter of the chest (chest is wider than it is tall), and barrel shape of chest.
-Increased perihilar markings make hila appear prominent.
-Chest • 41 agent, such as staphylococcal or streptococcal pneumonia.
+In addition, some findings such as hyperinflation in an infant are much more easily evaluated on the lateral than on the frontal views .
+The historic emphasis in textbooks and articles concerning pneumonia has been on radiographic patterns that suggest a specific infectious agent, such as staphylococcal or streptococcal pneumonia.
 However, because of the limited ways in which the lung can respond to inflammation, findings suggestive of a specific diagnosis are usually not encountered in the radiograph of a child with suspected community-acquired pneumonia.
 The more general issue in the evaluation of suspected pneumonia is whether the infectious agent is likely to be bacteria or viral, which determines whether the patient should be placed on antibiotics.
 To answer this question it is helpful to review the epidemiology of lower respiratory infections in children, the classic radiographic patterns of viral and bacterial pneumonia in children, and what is known about the accuracy of chest radiography in differentiating viral from bacterial infection.
@@ -403,31 +292,22 @@ Therefore, the odds that a child should be administered antibiotics for a respir
 In addition, there has been a recent increase in the incidence of pneumonia secondary to multidrug-resistant Staphylococcus aureus infections.
 These can occur at any age.
 Viral infections affect the airways, causing inflammation of the small airways and peribronchial edema.
-This peribronchial edema appears on radiography as increased peribronchial opacities—symmetric course markings that radiate from the hila into the lung (Fig.
-3-21A, B; and see Fig.
-3-20A, B).
+This peribronchial edema appears on radiography as increased peribronchial opacities—symmetric course markings that radiate from the hila into the lung .
 The central portions of the lungs appear to be ‘‘dirty’’ or ‘‘busy.
 ’ It is one of the most subjective findings in radiology.
 In addition, the combination of the bronchial wall edema, narrowed airway lumen, and necrotic debris and mucus in the airway leads to small airway occlusion.
 This results in both hyperinflation and areas of subsegmental atelectasis.
 Hyperinflation is evident on chest radiographs in children in the presence of hyperlucency, the depression of the hemidiaphragm to more than 10 posterior ribs, and the increased anterior-to-posterior chest diameter.
-Hyperinflation is often much better appreciated on lateral than on frontal radiographs in infants and small children.
-Subsegmental atelectasis appears as wedge-shaped areas of density, most commonly in the lower and midFIGURE.
-3-21.
-Viral lower respiratory illness in a young child.
-A, Chest radiograph at peak of illness shows ropy increased perihilar markings and areas of subsegmental atelectasis.
-B, Radiograph 5 days earlier in same child shows clear lungs with absence of increased perihilar markings.
-Note the difference between the two radiographs.
-42 • Pediatric Imaging: The Fundamentals lung (see Fig.
-3-20A, B).
+Hyperinflation is often much better appreciated on lateral than on frontal radiographs in infants and small children .
+Subsegmental atelectasis appears as wedge-shaped areas of density, most commonly in the lower and mid lung .
 There are several anatomic differences that render small children more predisposed to air trapping and collapse secondary to viral infection than adults: small airway luminal diameter, poorly developed collateral pathways of ventilation, and more abundant mucus production.
 The misinterpretation of areas of atelectasis as focal opacities suspicious for bacterial pneumonia is thought to be one of the more common misinterpretations in pediatric radiology.
 In contrast to the airway involvement in viral pneumonia, bacterial pneumonia occurs secondary to inhalation of the infectious agent into the air spaces.
 There is a resultant progressive development of inflammatory exudate and edema within the acini, resulting in consolidation of the air spaces.
-On chest radiography, localized air space consolidation occurs with air bronchograms.
+On chest radiography, localized air space consolidation  occurs with air bronchograms.
 The typical distribution is either lobar or segmental, depending on when in the course of development of the pneumonia the radiograph is obtained.
 Associated pleural effusions are not uncommon.
-Also, there is a propensity for pneumonia to appear ‘‘round’’ in younger children.
+Also, there is a propensity for pneumonia to appear ‘‘round’’ in younger children .
 Round pneumonia is more common in children younger than 8 years of age and is most often caused by S.
 pneumoniae.
 The occurrence of this pattern is thought to be related to poor development of pathways of collateral ventilation.
@@ -441,14 +321,7 @@ But the positive predictive value is low (30%).
 In other words, 70% of children who have radiographic findings of bacterial infection actually have viral infection.
 In regard to decisions about administering antibiotics to children with suspected pneumonia, the goals are to treat all children who have bacterial pneumonia with antibiotics while minimizing the treatment of children with viral illnesses.
 Therefore, the high negative predictive value of chest radiography for bacterial pneumonia is useful in identifying those children who do not need antibiotics.
-FIGURE 3-22.
-Bacterial pneumonia.
-Radiograph shows focal lung consolidation (P) in lateral aspect of right lower lobe, consistent with bacterial pneumonia.
-FIGURE 3-23.
-Round pneumonia.
-Radiograph shows rounded opacity overlying the left hilum.
-This is the location of the superior segment of the left lower lobe.
-Chest • 43Many of the presenting symptoms of pneumonia in children are nonspecific, and the spectrum of presentations overlaps with a number of other pathologic processes involving the chest or other anatomic regions.
+Many of the presenting symptoms of pneumonia in children are nonspecific, and the spectrum of presentations overlaps with a number of other pathologic processes involving the chest or other anatomic regions.
 Therefore, one of the other roles of chest radiography in the evaluation of a child who potentially has pneumonia is the exclusion of other processes.
 Two areas that are often blind spots for radiologists and may be involved by conditions that mimic pneumonia are the airway and the chest wall.
 Processes that cause extrinsic compression of the trachea and bronchi can mimic pneumonia by causing noisy breathing, lobar collapse, and recurrent infection.
@@ -470,27 +343,18 @@ Great differences in opinion exist among caregivers regarding the timing and agg
 Traditionally, the aggressiveness of therapy has been based on categorizing parapneumonic effusions as empyema or transudative effusion as determined by needle aspiration and analysis of the pleural fluid.
 Several imaging modalities have been advocated to differentiate empyema from transudative effusion without the use of an invasive diagnostic thoracentesis, including decubitus radiographs, ultrasound, and CT.
 If there is a significant change in the position and appearance of the pleural fluid on the decubitus images as compared to the upright radiograph, the fluid is considered to be free flowing and nonloculated.
-If there is no change in position of the pleural fluid, the fluid is considered to be loculated (Fig.
-3-24A-C).
+If there is no change in position of the pleural fluid, the fluid is considered to be loculated .
 In my experience, these decubitus radiographs have been more confusing than helpful, and we do not advocate the use of decubitus radiographs to evaluate pleural effusions at our institution.
-On CT, findings such as thickening or enhancement of the parietal pleura and thickening or increased attenuation of the extrapleural fat were previously thought to favor empyema over transudative effusion, but this has been shown to be inaccurate (Fig.
-3-25A, B; and see Fig.
-3-29).
-Ultrasound has also been advocated as an aid 44 • Pediatric Imaging: The Fundamentals in making therapeutic decisions for parapneumonic effusions.
-In one study, parapneumonic effusions were categorized as low grade (anechoic fluid without internal heterogeneous echogenic structures) or high grade (fibrinopurulent organization demonstrated by the presence of fronds, septations, or loculations) (see Figs.
-3-24, 3-25).
+On CT, findings such as thickening or enhancement of the parietal pleura and thickening or increased attenuation of the extrapleural fat were previously thought to favor empyema over transudative effusion, but this has been shown to be inaccurate .
+Ultrasound has also been advocated as an aid in making therapeutic decisions for parapneumonic effusions.
+In one study, parapneumonic effusions were categorized as low grade (anechoic fluid without internal heterogeneous echogenic structures) or high grade (fibrinopurulent organization demonstrated by the presence of fronds, septations, or loculations) .
 In children in whom effusions were high grade, hospital stay was reduced by nearly 50% when operative intervention was performed.
 The length of hospital stay in children with low-grade effusions was not affected by operative intervention.
 Therefore, ultrasound may play a more useful role than CT in the early evaluation of parapneumonic effusions.
-It is not uncommon for ultrasound to show multiple septations and in the same case to show no evidence of septations on CT.
-We currently advocate ultrasound, rather than CT or decubitus radiographs, in the primary evaluation of parapneumonicWhen children exhibit persistent or progressive symptoms (fever, respiratory distress, sepsis) despite appropriate medical management of pneumonia, there is commonly an underlying suppurative complication.
-Potential suppurative complications include parapneumonic effusions such as empyema, inadequately drained effusions, and persistent effusion due to malpositioned chest tube; parenchymal complications,FIGURE 3-24.
-Parapneumonic effusion (empyema) evaluated by decubitus radiographs and ultrasound.
-A, Radiograph shows pleural effusion (arrows) in child with pneumonia.
-B, Decubitus radiograph with left side down shows no change in pleural effusion (arrows), I think.
-Lack of change is supposed to suggest loculation, but is probably not that helpful a diagnostic tool.
-C, Ultrasound of left pleural fluid demonstrating multiple areas of septations (arrows) and debris—a high-grade effusion, predictive of benefit from aggressive drainage.
-Chest • 45 such as cavitary necrosis or lung abscess; and purulent pericarditis.
+It is not uncommon for ultrasound to show multiple septations and in the same case to show no evidence of septations on CT .
+We currently advocate ultrasound, rather than CT or decubitus radiographs, in the primary evaluation of parapneumonic effusions.
+When children exhibit persistent or progressive symptoms (fever, respiratory distress, sepsis) despite appropriate medical management of pneumonia, there is commonly an underlying suppurative complication.
+Potential suppurative complications include parapneumonic effusions such as empyema, inadequately drained effusions, and persistent effusion due to malpositioned chest tube; parenchymal complications, such as cavitary necrosis or lung abscess; and purulent pericarditis.
 Although chest radiography is the primary imaging modality for detecting such complications, a significant percentage of them are not demonstrated by radiography.
 In a child who has had a noncontributory radiograph and who has not responded appropriately to therapy, contrast-enhanced CT has been shown to be useful in detecting clinically significant suppurative complications.
 CT can help to differentiate whether there is a pleural or a parenchymal reason for persistent illness.
@@ -501,42 +365,19 @@ Suppurative lung parenchymal complications include a spectrum of abnormalities, 
 The name given to the suppurative process is determined by several factors, including the severity, distribution, condition of the adjacent lung parenchyma, and temporal relationship with disease resolution.
 Lung abscess represents a dominant focus of suppuration surrounded by a well-formed fibrous wall.
 Lung abscess is actually uncommon in otherwise healthy children and typically occurs in children who are immunocompromised.
-On contrast-enhanced CT, lung abscesses appear as fluid- or air-filled cavities with definable enhancing walls.
+On contrast-enhanced CT, lung abscesses appear as fluid- or air-filled cavities with definable enhancing walls .
 Typically, there is no evidence of necrosis in the surrounding lung.
-Pneumatocele is a term given to thinwalled cysts seen at imaging and may representFIGURE 3-25.
-Parapneumonic effusion (empyema) evaluated by CT and ultrasound.
-A, CT shows left parapneumonic effusion.
-There are no findings to suggest empyema on CT.
-There are no septations seen by CT, which is typical.
-B, Ultrasound shows consolidated lung (L) with surrounding band of pleural fluid (arrows).
-Note multiple echogenic septations consistent with complex effusion.
-FIGURE 3-26.
-Lung abscess.
-Contrast-enhanced CT shows welldefined cavity (arrows) with enhancing wall and containing airfluid level.
-46 • Pediatric Imaging: The Fundamentals a later or less severe stage of resolving or healing necrosis (Fig.
-3-27A-C).
+Pneumatocele is a term given to thinwalled cysts seen at imaging and may represent a later or less severe stage of resolving or healing necrosis .
 Cavitary necrosis is the most commonly encountered suppurative complication.
-It is characterized by a dominant area of necrosis of a consolidated lobe that is associated with a variable number of thin-walled cysts.
-CT findings of cavitary necrosis include loss of normal lung architecture, decreased parenchymal enhancement, loss of the lung-pleural margin, and multiple thin-walled cavities containing air or fluid and lacking an enhancing border.
+It is characterized by a dominant area of necrosis of a consolidated lobe that is associated with a variable number of thin-walled cysts .
+CT findings of cavitary necrosis include loss of normal lung architecture, decreased parenchymal enhancement, loss of the lung-pleural margin, and multiple thin-walled cavities containing air or fluid and lacking an enhancing border .
 Although historically described as a complication of staphylococcal pneumonia, cavitary necrosis was much more commonly seen as a complication of streptococcal pneumonia during the last decade.
 Cavitary necrosis in association with multi-drug-resistant S.
-aureus infection has been occurring with increased frequency recently.
+aureus infection has been occurring with increased frequency recently .
 The presence of cavitary necrosis is indicative of an intense and prolonged illness.
 However, unlike in adults in whom the mortality rate in cavitary necrosis is high, and early surgical removal of the affected lung has been advocated, the long-term outcome for children with cavitary necrosis is favorable in most cases with medical management alone.
 It is amazing that in children with cavitary necrosis, follow-up radiographs obtained more than 40 days after the acute illness are most often normal or show only minimal scarring.
-It may sometimes be difficult on a single imaging study to differentiate a suppurative lung parenchymal complication of pneumonia from an underlying cystic congenital lungFIGURE 3-27.
-Rapid development of necrosis and pneumatocele formation in an infant with multi-drug-resistant S.
-aureus pneumonia.
-A, Radiograph obtained in the intensive care unit after intubation for respiratory failure shows patchy bilateral lung consolidation.
-Note position of PICC with tip in inferior aspect of superior vena cava (arrow).
-Note widening of soft tissues, consistent with anasarca.
-B, Radiograph 3 days later shows interval development of multiple bilateral areas of necrosis and cyst formation.
-There is progressive anasarca.
-C.
-Radiograph taken 2 days after that shown in B shows progressive development of necrosis and cyst formation.
-Not that it matters, but because many of the cysts are thin-walled and without surrounding opacification, pneumatocele is acceptable terminology.
-Note the development of bilateral pneumothorax with left chest tube placement and progressive anasarca.
-Chest • 47 lesion that has become secondarily infected.
+It may sometimes be difficult on a single imaging study to differentiate a suppurative lung parenchymal complication of pneumonia from an underlying cystic congenital lung lesion that has become secondarily infected.
 Infected congenital cystic adenomatoid malformations may appear very similar to cavitary necrosis.
 Obviously, historical imaging studies showing a lack of a cystic lesion exclude underlying CCAM, but such historical examinations often do not exist or are not available.
 Observable resolution of the cystic lesion on follow-up studies ensures that the lesion is no longer clinically relevant and makes cavitary necrosis much more likely.
@@ -544,33 +385,19 @@ However, some CCAMs have been reported to scar down and resolve after becoming i
 Acute pneumonia can lead to parenchymal damage and long-term sequelae.
 The most common sequelae of acute pneumonia are bronchiectasis and Swyer-James syndrome.
 Bronchiectasis is enlargement of the diameter of the bronchi that is related to damage to the bronchial walls.
-It is best demonstrated by highresolution CT, where the diagnostic finding is that the bronchus in question is larger in diameter than the adjacent pulmonary artery.
-Swyer-James syndrome is characterized by unilateral lung hyperlucency that is thought to be secondary to a virus-induced necrotizing bronchiolitis that leads to an obliterative bronchiolitis.
+It is best demonstrated by highresolution CT, where the diagnostic finding is that the bronchus in question is larger in diameter than the adjacent pulmonary artery .
+Swyer-James syndrome is characterized by unilateral lung hyperlucency that is thought to be secondary to a virus-induced necrotizing bronchiolitis that leads to an obliterative bronchiolitis .
 Radiography shows a hyperlucent and enlarged lung with a static lung volume.
 The pulmonary vessels are less prominent than on the normal side.
 The incidence of tuberculosis in children has been increasing.
 Children with primary tuberculosis can present with pulmonary consolidation within any lobe.
-It is often associated with FIGURE 3-28.
-Cavitary necrosis.
-Photograph of surgical specimen shows consolidated lung (tan area) with areas of necrosis and cavity formation (arrows).
-FIGURE 3-29.
-Cavitary necrosis with bronchopulmonary fistula formation.
-CT shows consolidation of the right lung.
-Portions of the lung demonstrate cavitary necrosis (arrows).
-There are also areas of consolidated lung that enhance (L) and are not compromised.
-There is a pleural effusion (P) that contains both air and fluid.
-There is thickening and enhancement of the parietal pleura (white arrowhead) and thickening of the extrapleural space (black arrowhead), both findings that claimed to be suggestive of empyema rather than transudative effusion but were shown to be inaccurate.
-FIGURE 3-30.
-Chronic complications related to recurrent pneumonias.
-CT shows multiple round, soft tissue density lesions in medial right lower lobe (arrows) consistent with bronchiectasis with mucus plugging.
-In the left lower lobe, there is an area of air trapping (arrowheads) consistent with obliterative bronchiolitis.
-This area remained hyperlucent on expiratory images.
-48 • Pediatric Imaging: The Fundamentals hilar lymphadenopathy or pleural effusion.
+It is often associated with hilar lymphadenopathy or pleural effusion.
 Therefore, when lung consolidation is seen with associated lymphadenopathy or effusion in a child who is not acutely ill, there should be a high suspicion for tuberculosis.
-Most of the cases of pulmonary tuberculosis that I have seen have demonstrated unilateral hilar lymphadenopathy.
+Most of the cases of pulmonary tuberculosis that I have seen have demonstrated unilateral hilar lymphadenopathy .
 Such cases should be considered tuberculosis until proven otherwise.
 In children with certain underlying conditions, the clinical scenarios and differential diagnoses differ greatly from those seen in the general population.
-Commonly encountered scenarios include the evaluation of pneumonia in immunocompromised children, acute chest syndrome in children with sickle cell anemia, and pulmonary complications in children with cysticChildren can be immunocompromised for a variety of reasons, including cancer therapy, bone marrow transplantation, solid organ transplantation, primary immunodeficiency, and AIDS.
+Commonly encountered scenarios include the evaluation of pneumonia in immunocompromised children, acute chest syndrome in children with sickle cell anemia, and pulmonary complications in children with cystic fibrosis.
+Children can be immunocompromised for a variety of reasons, including cancer therapy, bone marrow transplantation, solid organ transplantation, primary immunodeficiency, and AIDS.
 This is a population that continues to increase.
 Acute pulmonary processes are a common cause of morbidity and mortality in these patients.
 As with immunocompetent children, radiography is the primary modality used to confirm or exclude pneumonia.
@@ -578,34 +405,14 @@ However, because many of the chest radiographs obtained in these children are po
 I would guess that in many tertiary institutions the number of chest CTs obtained in immunocompromised children is greater than the number of those obtained in immunocompetent children.
 In immunocompetent children, the main question is whether a pulmonary process is viral or bacterial; in immunocompromised children, there are many more possible causes of acute pulmonary processes They include alveolar hemorrhage, pulmonary edema, drug reaction, idiopathic pneumonia, lymphoid interstitial pneumonitis, bronchiolitis obliterans, bronchiolitis obliterans with organizing pneumonia, and chronic graft-versus-host disease.
 The CT findings for many of these entities are overlapping and nonspecific.
-A clinical question often posed is this: Is there evidence of fungal infection? The hallmark CT finding indicating fungal infection is the presence of nodulesFIGURE 3-31.
-Tuberculosis in a 7-year-old boy.
-A and B, Frontal and lateral radiographs of the chest demonstrate a left hilar mass (arrows) consistent with unilateral lymphadenopathy.
-There is also left upper lobe collapse.
-Note displaced major fissure on lateral view (arrowheads).
-Chest • 49 (Figs.
-3-32A, B, 3-33).
+A clinical question often posed is this: Is there evidence of fungal infection? The hallmark CT finding indicating fungal infection is the presence of nodules .
 They are commonly clustered and may exhibit poorly defined margins, cavitation, or a surrounding halo that has the opacity of ground glass.
 However, many of these findings are also nonspecific.
 In these cases CT does aid in directing potential interventions, such as bronchoscopy or percutaneous lung biopsy, to high yield areas.
-Children with sickle cell anemia can develop acute chest syndrome, which is manifested by fever, chest pain, hypoxia, and pulmonary opacities on chest radiographs.
+Children with sickle cell anemia can develop acute chest syndrome, which is manifested by fever, chest pain, hypoxia, and pulmonary opacities on chest radiographs .
 Acute chest syndrome is much more common in children than adults with sickle cell anemia.
 It occurs most commonly between 2 and 4 years of age and is the leading cause of death (25% of deaths) and the second most common cause of hospitalization in those affected with sickle cell anemia.
-Although it is debated whether the cause of such episodes is more often related to infection or infarction, many believe the lung opacities are related to rib infarction, splinting, and subsequent areasFIGURE 3-32.
-Fungal pneumonia in child after bone marrow transplantation for aplastic anemia.
-A, CT shows poorly defined nodules and associated ground-glass opacity.
-B, A CT taken earlier shows clear lungs.
-Note the striking change since this baseline study.
-FIGURE 3-33.
-Histoplasmosis infection.
-CT shows multiple nodules bilaterally.
-There is a biopsy site on the left, anteriorly.
-FIGURE 3-34.
-Acute chest syndrome in a 6-year-old boy with sickle cell anemia.
-A, Chest radiograph obtained at admission shows low lung volumes and minimal focal opacity within the left lower lobe.
-B, Chest radiograph obtained 1 day later shows consolidation of a large portion of the left lung.
-C, Chest radiograph obtained 2 days after A shows complete left lung opacification.
-50 • Pediatric Imaging: The Fundamentals of atelectasis.
+Although it is debated whether the cause of such episodes is more often related to infection or infarction, many believe the lung opacities are related to rib infarction, splinting, and subsequent areas of atelectasis.
 Radiography often shows segmental to lobar pulmonary opacities but can also be normal.
 There can be an associated increase in cardiomegaly.
 Bone scans may show rib infarcts.
@@ -617,32 +424,24 @@ Radiography may be normal at young ages but eventually demonstrates hyperinflati
 The hilar areas can become prominent because of a combination of lymphadenopathy secondary to the chronic inflammation and enlarged central pulmonary arteries related to the development of pulmonary arterial hypertension.
 Chest radiography is used to monitor the disease and evaluate for complications during acute exacerbations.
 Such complications include focal pneumonia, pneumothorax, and pulmonary hemorrhage.
-To monitor the progression of disease, some institutions use high-resolution CT, which demonstrates findings such as bronchiectasis and bronchial wall thickening in greater detail and earlier than does radiography.
-HIGH-RESOLUTION CT INOne of the more common indications for highresolution CT in the pediatric population is questioned chronic aspiration.
+To monitor the progression of disease, some institutions use high-resolution CT, which demonstrates findings such as bronchiectasis and bronchial wall thickening in greater detail and earlier than does radiography .
+One of the more common indications for highresolution CT in the pediatric population is questioned chronic aspiration.
 Often this issue arises in children with neurologic abnormalities such as cerebral palsy or chronic tracheotomy tubes when decisions about methods of feeding are being entertained.
-High-resolution CT findings of chronic aspiration include bronchiectasis, tree-in-bud opacities, and increased interstitial linear opacities.
+High-resolution CT findings of chronic aspiration include bronchiectasis, tree-in-bud opacities , and increased interstitial linear opacities.
 Findings more often occur in lower lobes.
 There is a greater component of cartilage than bone within the chest walls of children, so there is more compliance than there is in the chest walls of adults.
 Because of this increased compliance, the sequelae of trauma to the pediatric chest are unique in several ways.
 First, the incidence of rib fractures after high-speed motor vehicle accidents is lower in children than in adults.
 Second, the deceleration forces of high speed collisions are more likely to be dispersed into the lung in children, resulting in lung contusion.
-Children with lung contusions have beenFIGURE 3-35.
-Cystic fibrosis.
-A, Radiograph shows areas of bronchial wall thickening and bronchiectasis, most prominent in the right upper lobe.
-B, High-resolution CT shows diffuse bronchiectasis and bronchial wall thickening within the upper lobes.
-There are also multiple areas of poorly defined opacities, particularly in the peripheral portions of the left upper lobe.
-These have a tree-in-bud appearance.
-Chest • 51 shown to have higher morbidity and mortality rates than those without lung contusions.
+Children with lung contusions have been shown to have higher morbidity and mortality rates than those without lung contusions.
 Although chest CT is not commonly performed to evaluate for lung contusion, the lower lungs are often seen on CT when it is performed to evaluate for abdominal trauma.
-Characteristic findings in lung contusion on CT include nonsegmental distribution, posterior location, crescent shape, and mixed confluent and nodular characteristics.
-In children with small lung contusions, the compliance of the chest wall can result in a rim of nonopacified lung between the consolidated contusion and the adjacent ribs seen on CT.
+Characteristic findings in lung contusion on CT include nonsegmental distribution, posterior location, crescent shape, and mixed confluent and nodular characteristics .
+In children with small lung contusions, the compliance of the chest wall can result in a rim of nonopacified lung between the consolidated contusion and the adjacent ribs seen on CT .
 This subpleural sparing can be helpful in differentiating lung contusion from other causes of lung opacification.
-The CT finding that classifies an opacified area as a lung laceration rather than a lung contusion is the presence of a fluid- or air-filled cyst within the opacified lung (Fig.
-3-38A, B; and see Fig.
-3-37).
+The CT finding that classifies an opacified area as a lung laceration rather than a lung contusion is the presence of a fluid- or air-filled cyst within the opacified lung .
 These cystic spaces result from torn lung.
 Finally, the sites of rib fracture in children differ from those in adults.
-Rib fractures in young children in the absence of an obvious traumatic event are highly suspicious for child abuse (Figs.
+Rib fractures in young children in the absence of an obvious traumatic event are highly suspicious for child abuse Figs.
 3-39, 3-40A, B).
 Pediatric rib fractures are more likely to be posterior than lateral.
 In child abuse, as a result of squeezing an infant’s thorax, the posterior ribs can be excessively levered at the costotransverse process articulation, causing posterior fracture at this site.
@@ -650,85 +449,39 @@ In the appropriately aged child, these findings are considered pathognomonic for
 The incidence of aortic injury is also much lower in children than in adults.
 This, in combination with the lower incidence of obesity in children as compared to adults, makes the uncleared mediastinum on a chest radiograph after trauma a much less common scenario in children than in adults.
 Otherwise, the use of CT and angiography and the imaging findings of aortic injuries are no different from those encountered in adults.
-The aspiration of the hydrocarbons in gasoline, furniture polish, kerosene, or lighter fluid when young children get into and drink such liquids can cause a combination of chemicalFIGURE 3-36.
-Aspiration.
-A, Radiograph in a child suspected of having aspiration shows increased nodular opacities in the right lung.
-B, High-resolution CT shows multiple nodular opacities (arrows) with tree-in-bud appearance.
-FIGURE 3-37.
-Lung contusion and laceration after a motor vehicle accident.
-CT shows characteristic findings of contusion on the left, including posterior location, crescent shape, nonsegmental distribution, and subpleural sparing (arrows).
-On the right, there is large pneumothorax (PTX) and consolidation of lung with an air-filled cyst (arrow) consistent with lung laceration.
-52 • Pediatric Imaging: The Fundamentals pneumonitis and atelectasis secondary to surfactant destruction.
+The aspiration of the hydrocarbons in gasoline, furniture polish, kerosene, or lighter fluid when young children get into and drink such liquids can cause a combination of chemical pneumonitis and atelectasis secondary to surfactant destruction.
 Radiographic findings may not manifest for up to 12 hours after ingestion.
 However, a normal radiograph at 24 hours after suspected ingestion excludes significant aspiration.
-The lung opacities tend to be in the lung bases and may persist for weeks after clinical improvement.
+The lung opacities tend to be in the lung bases  and may persist for weeks after clinical improvement.
 Pneumatoceles are not uncommon sequelae.
 The mediastinum is the most common location of primary thoracic masses in children.
 Also, the majority of mediastinal masses occur in children rather than in adults.
 As in adults, characterizing the location of the mass as anterior, middle, or posterior mediastinal can focus the differential diagnosis of mediastinal masses (Table 3-4).
 By far the most commonly encountered issues in the anterior mediastinum are the normal thymus mistaken as a mass and lymphoma.
 There are a large number of other potential but much less common causes of anterior mediastinal masses in children.
-They include teratoma (and other germ cell tumors), thymoma, multilocular thymic cysts seen in association with AIDS, and thyroid enlargement and heterogeneity (often with calcifications) in Langerhan cell histiocytosis (in which lung cysts are also present; Fig.
-3-42).
-FIGURE 3-38.
-Lung laceration following motor vehicle accident.
-A, Radiograph shows nonspecific opacification of right lower lobe.
-B, CT shows right lower lobe consolidation with airand fluid-filled cavities (arrows) consistent with lung laceration.
-FIGURE 3-39.
-Child abuse.
-Radiograph shows healing fractures (arrows) of right fourth and fifth ribs.
-TABLE 3-4.
-Common Mediastinal Masses byNormal thymusDuplication cystChest • 53One of the most common areas of confusion in the imaging of children is related to differentiating the normal thymus from pathologic processes.
+They include teratoma (and other germ cell tumors), thymoma, multilocular thymic cysts seen in association with AIDS, and thyroid enlargement and heterogeneity (often with calcifications) in Langerhan cell histiocytosis .
+One of the most common areas of confusion in the imaging of children is related to differentiating the normal thymus from pathologic processes.
 This confusion led to thymic radiation therapy in the first half of the 20th century, when children with a normal prominent thymus on chest radiography were radiated because of the erroneous belief that a big thymus compressed the airway and predisposed to death.
 Distinguishing the normal thymus from disease continues to cause diagnostic problems today, particularly for those who do not often image children.
 In children, the thymus has a variable appearance in both size and shape.
-In children less than 5 years of age, and particularly in infants, the thymus can appear to be very large.
+In children less than 5 years of age, and particularly in infants, the thymus can appear to be very large .
 Large thymuses are said to be more common in boys.
 The thymus also has variable configurations.
-A number of names have become associated with normal variations in the thymus, such as the sail sign, which refers to a triangular extension of the thymus, most commonly to the right, on frontal chest radiography.
+A number of names have become associated with normal variations in the thymus, such as the sail sign , which refers to a triangular extension of the thymus, most commonly to the right, on frontal chest radiography.
 It resembles a sail.
-This should not be confused with the spinnaker sailFIGURE 3-40.
-Child abuse.
-A, Radiograph shows multiple fractures that occurred at different times.
-There are multiple subacute healing rib fractures (white arrows) with callus formation, a subacute healing right clavicle fracture (arrowhead), and multiple acute right-sided rib fractures (black arrows) without callus formation.
-B, CT shows callus around healing rib fractures on left (arrows) and characteristic acute fracture of the posterior rib (arrowhead) on right.
-A rib fractures against the transverse process when a child is squeezed.
-FIGURE 3-41.
-Hydrocarbon aspiration in a 1-year-old boy who drank gasoline from an orange juice container on the family’s garage floor.
-Chest radiograph shows bibasilar lung consolidation.
-The patient is intubated.
-FIGURE 3-42.
-Enlarged thymus with calcifications in child with Langerhans cell histiocytosis.
-CT shows prominent thymus with high-attenuation calcifications.
-54 • Pediatric Imaging: The Fundamentals sign, which is an indication of pneumomediastinum, in which the abnormally located air lifts the thymus up so it looks like the sail on the front of a racing boat.
+This should not be confused with the spinnaker sail sign , which is an indication of pneumomediastinum, in which the abnormally located air lifts the thymus up so it looks like the sail on the front of a racing boat.
 Between 5 and 10 years of age, the thymus becomes less prominent radiographically because of the disproportionately decreased growth of the thymus in relationship to the growth of the rest of the body.
 During a child’s second decade, the thymus should not be visualized as a discrete anterior mediastinal mass on chest radiography.
 Abnormality of the thymus (or anterior mediastinum) is suspected when the thymic silhouette has an abnormal shape or an abnormal size in relationship to the patient’s age.
 Displacement or compression of the airway or other structures is suspicious for abnormality.
 CT, ultrasound, MR imaging, and fluoroscopy can be used to help differentiate the normal thymus from an abnormal mass, but CT is probably used most commonly.
-When CT is performed to evaluate suspicious cases, the normal thymus should appear homogeneous in attenuation, typically is quadrilateral in shape in young children and triangular in teenagers, and may have slightly convex margins.
-Heterogeneity, calcification, and displacement or compression of the airway or vascular structures indicate an abnormality (Fig 3-48A-D; and see Fig.
-3-42).
+When CT is performed to evaluate suspicious cases, the normal thymus should appear homogeneous in attenuation, typically is quadrilateral in shape in young children  and triangular in teenagers , and may have slightly convex margins.
+Heterogeneity, calcification, and displacement or compression of the airway or vascular structures indicate an abnormality .
 True pathologic masses of the thymus are actually quite rare in children.
 Thymic rebound is another source of confusion concerning normal thymic tissue.
 After a patient has ceased receiving chemotherapy for a malignancy, it is normal for the thymus to grow back, as seen in serial CT examinations.
-Thymic volume has been shown to vary cyclically by as much as 40% during rounds of chemotherapy.
-This intervallic increase in soft tissue attenuation in the anterior mediastinumFIGURE 3-43.
-Normal, prominent size of the thymus.
-Photograph from autopsy of an infant who died of sudden infant death syndrome shows frontal view of thymus (T) after thoracotomy.
-Note the prominent size of the thymus in relation to the heart (H).
-The thymus is bilobed.
-In this patient the left lobe is larger than the right.
-(Image courtesy Janet L.
-Strife, MD, Cincinnati, OH.
- FIGURE 3-44.
-Normal, prominent thymus with ‘‘sail’’ sign.
-Radiograph shows prominent but normal thymus with rightward triangular extension (arrow).
-FIGURE 3-45.
-‘‘Spinnaker sail sign’’ in child with pneumomediastinum.
-Radiograph shows thymus (arrows) lifted off of mediastinum by air in mediastinum.
-The uplifted thymus resembles a spinnaker sail.
-Chest • 55 should not be considered abnormal when encountered on cross-sectional imaging.
+Thymic volume has been shown to vary cyclically by as much as 40% during rounds of chemotherapy .
+This intervallic increase in soft tissue attenuation in the anterior mediastinum should not be considered abnormal when encountered on cross-sectional imaging.
 Lymphoma is the third most common tumor in children, exceeded only by leukemia and brain tumors.
 It is by far the most common abnormal anterior mediastinal mass in children, particularly in older children and teenagers.
 Therefore, lymphoma is the working diagnosis for newly diagnosed anterior mediastinal masses in children.
@@ -736,64 +489,24 @@ Age is helpful in differentiating a normal thymus from lymphoma because a normal
 The most problematic case is the slightly prominent anterior mediastinum in a 10year-old.
 One helpful clue in identifying lymphoma is that mediastinal lymphoma is commonly associated with cervical lymphadenopathy.
 The most common types of lymphoma that involve the mediastinum include Hodgkin lymphoma and the lymphoblastic type of nonHodgkin lymphoma.
-Both lesions can appear as discrete lymph nodes or as a conglomerate mass of lymph nodes, most commonly within the anterior mediastinum.
+Both lesions can appear as discrete lymph nodes or as a conglomerate mass of lymph nodes, most commonly within the anterior mediastinum .
 Lung involvement, when present, is usually contiguous with mediastinal and hilar disease.
-Calcifications are rare in untreated lymphoma and when present should raise the possibility of other diagnoses such as teratoma.
+Calcifications are rare in untreated lymphoma and when present should raise the possibility of other diagnoses such as teratoma .
 Most mediastinal masses are initially identified on chest radiography and then further evaluated by CT, which confirms the presence of an anterior mediastinal mass, evaluates the extent of disease, and evaluates for potential complications.
-The potential complications related to mediastinal lymphoma include airway compression, compressive obstruction of venous structures (superior vena cava, pulmonary veins), and pericardial effusion (see Figs.
-3-48, 3-49).
-FIGURE 3-47.
-Thymic rebound in a child on chemotherapy.
-A, CT taken while the child was on chemotherapy shows little thymic tissue.
-B, CT taken 3 months later when child was off chemotherapy shows regrowth of thymus (arrows).
-Note the typical triangular shape of the thymus as is seen during teenage years.
-FIGURE 3-46.
-Normal thymus on cross-sectional imaging.
-CT in a young child shows thymus (T) to be quadrilateral in shape, to have convex margins, and to be of homogeneous attenuation.
-There is no compression of the trachea or superior vena cava.
-56 • Pediatric Imaging: The Fundamentals Airway compression is especially important because it may influence decisions concerning surgical biopsy with general anesthesia versus percutaneous biopsy with local anesthesia.
+The potential complications related to mediastinal lymphoma include airway compression, compressive obstruction of venous structures (superior vena cava, pulmonary veins), and pericardial effusion .
+Airway compression is especially important because it may influence decisions concerning surgical biopsy with general anesthesia versus percutaneous biopsy with local anesthesia.
 If a patient cannot lie recumbent for CT imaging because of airway compression, the images can usually be obtained with the patient positioned prone because the anterior mediastinal mass falls away from the airway.
 Compression of the airway by more than 50% from the expected round shape has been shown to be associated with a high risk for complications related to anesthesia.
 Because of this, some such mediastinal masses are biopsied using ultrasound guidance and local anesthesia.
-Middle mediastinal masses are less common than anterior or posterior mediastinal masses and are usually related to lymphadenopathy orFIGURE 3-48.
-Lymphoma.
-A, Frontal radiograph shows marked enlargement of superior mediastinum and associated right pleural effusion.
-B, Lateral radiograph shows posterior displacement, compression, and poor visualization of the trachea (arrow), further supporting the presence of an abnormal mediastinal mass.
-C, CT shows large anterior mediastinal mass (M) with compression and posterior displacement of trachea (arrow) and compression of the superior vena cava (arrowhead).
-Note right pleural effusion.
-D, Coronal CT again shows mass (M) and compression of superior vena cava (arrow).
-Chest • 57 duplication cysts.
+Middle mediastinal masses are less common than anterior or posterior mediastinal masses and are usually related to lymphadenopathy or duplication cysts.
 Lymphadenopathy can be inflammatory, most often secondary to granulomatous disease, such as tuberculosis or fungal infection; or to neoplastic growth secondary to metastatic disease or lymphoma.
-Duplication cysts can be bronchogenic, enteric, or neurenteric.
+Duplication cysts can be bronchogenic , enteric, or neurenteric.
 Duplication cysts are well-defined masses that appear cystic on cross-sectional imaging.
 Neurenteric cysts, by definition, have associated vertebral anomalies.
 Pathologic processes related to the esophagus can also cause middle mediastinal abnormalities.
-Chronic foreign bodies can erode through the esophagus and cause a middle mediastinal mass, typically in the cervical esophagus at the level of the thoracic inlet.
+Chronic foreign bodies can erode through the esophagus and cause a middle mediastinal mass, typically in the cervical esophagus at the level of the thoracic inlet .
 A dilatated esophagus resulting from achalasia or a hiatal hernia may also appear as a middle mediastinal mass on chest radiography.
-FIGURE 3-49.
-Lymphoma with pericardial effusion.
-CT image from level of heart in a child with an anterior mediastinal mass; on more superior images shows extension of lymphoma mass (L) inferiorly.
-Note adjacent pericardial fluid (arrowheads) and bilateral pleural fluid (arrows).
-FIGURE 3-50.
-Teratoma.
-CT shows anterior mediastinal mass (M) that is of fat attenuation.
-FIGURE 3-51.
-Chronic esophageal foreign body presenting as dysphagia and stridor in a young child.
-A, Axial CT shows inflammatory mass at thoracic inlet.
-There is a linear metallic density (arrows) suspicious for an eroded, chronic foreign body from the upper esophagus.
-The trachea is compressed (arrowhead).
-B, Coronal CT shows dense oval structure (arrows) in an inflammatory mass.
-At surgical retrieval, the foreign body was found to be a sequin.
-58 • Pediatric Imaging: The FundamentalsFIGURE 3-52.
-Neuroblastoma.
-A, Radiograph shows a large mass in right upper hemithorax.
-There is widening (W) of the interspace between the right third and fourth ribs and erosion of the undersurface of the right third rib (arrow).
-The rib splaying and erosion document chest wall involvement and the posterior nature of the tumor.
-B, CT shows large mass (M) with compression of the trachea (arrow).
-The mass is so large it extends from anterior to posterior chest walls.
-C, MIBG scan shows avid uptake of radiotracer within the mass (arrows), consistent with a neurogenic tumor.
-D, Photograph taken during surgical resection shows a mass (M) arising from the posterior chest.
-Chest • 59There are a number of causes of posterior mediastinal masses in children.
+ There are a number of causes of posterior mediastinal masses in children.
 They include neural crest tumor, neurofibroma, lateral menigocele, diskitis, hematoma, and extramedullary hematopoiesis.
 However, just as anterior mediastinal masses in older children are considered to be lymphoma, the working diagnosis for posterior mediastinal masses in young children is neuroblastoma until proven otherwise.
 Neurogenic tumors (neuroblastoma, ganglioneuroblastoma, ganglioneuroma) are the most common posterior mediastinal masses in childhood.
@@ -801,54 +514,28 @@ Neuroblastoma is discussed in detail in the genitourinary section.
 Approximately 15% of neuroblastomas occur in the posterior mediastinum, most occurring before a child is 2 years of age.
 Most neuroblastomas are visible on frontal radiographs of the chest as a posterior opacity.
 The soft tissue mass is often surprisingly poorly visualized on the lateral view.
-There is frequently erosion, destruction, or splaying of the adjacent posterior ribs (Fig.
-3-52A-D).
+There is frequently erosion, destruction, or splaying of the adjacent posterior ribs .
 These findings may be subtle, so whenever a posterior chest opacity is identified an effort should be made to look for rib erosion.
 The neuroforamina may appear enlarged on the lateral view, secondary to intraspinal extension of the tumor.
 Calcifications are reported to be visible on chest radiography in as many as 25% of cases, although in my experience it is less than that.
 Cross-sectional imaging with CT or MR imaging confirms the presence of the tumor and evaluates extent of disease, particularly whether there is intraspinal extension.
 Thoracic neuroblastomas have better prognosis than abdominal neuroblastomas.
 A number of primary malignant processes can arise in the chest walls of children.
-They include Ewing sarcoma, Askin tumor (primitive neuroectodermal tumor of the chest wall), and other sarcomas.
+They include Ewing sarcoma, Askin tumor (primitive neuroectodermal tumor of the chest wall), and other sarcomas .
 Most of these lesions present with painful enlargement of the chest wall.
 Metastatic involvement by neuroblastoma, lymphoma, or leukemia is actually more common than are primary tumors.
 On imaging, all of these malignancies typically appear as nonspecific aggressive lesions with poorly defined margins that include bony destruction and pleural involvement.
-However, one must consider that as much as one third of children have variations in the configuration of the anterior chest wall, including asymmetric findings, such as tilted sternum, prominent convexity of anterior rib or costal cartilage, prominent asymmetric costal cartilage, parachondral nodules, or mild degrees of pectus excavatum or carinatum.
-It is common for these asymmetric variants to be palpated byFIGURE 3-53.
-Undifferentiated sarcoma of the chest wall in a young child.
-CT shows soft tissue attenuation mass (M) involving the anterolateral chest wall on right.
-FIGURE 3-54.
-Tilted sternum with prominent costal cartilage presenting as a palpable mass on physical exam.
-CT shows the sternum (arrowhead) to be tilted with respect to the horizontal right-to-left axis of the body.
-The right margin of the sternum is more anterior than the right.
-The associated anterior position of the right costal cartilage (arrow), a normal variant, caused the palpable finding on physical exam.
-60 • Pediatric Imaging: The Fundamentals the pediatrician, parent, or patient, and because of the fear of malignancy, cross-sectional imaging is requested.
+However, one must consider that as much as one third of children have variations in the configuration of the anterior chest wall, including asymmetric findings, such as tilted sternum , prominent convexity of anterior rib or costal cartilage, prominent asymmetric costal cartilage, parachondral nodules, or mild degrees of pectus excavatum or carinatum.
+It is common for these asymmetric variants to be palpated by the pediatrician, parent, or patient, and because of the fear of malignancy, cross-sectional imaging is requested.
 In a previous study that reviewed CT and MR examinations performed to evaluate children with suspected chest wall masses, all of the palpable lesions that were asymptomatic were related to normal anatomic variations.
 Knowledge that such variations are common should be communicated to referring physicians and parents when imaging is being contemplated in a child with an asymptomatic chest wall ‘‘lump.
 ’ One of the most common abnormalities in chest wall configuration is pectus excavatum.
 Although the majority of associated problems due to this deformity are cosmetic, pectus deformities can cause chest pain, fatigue, dyspnea on exertion, palpitations, and restrictive lung disease.
 When the deformities are severe, surgical repair can be performed.
 Pectus excavatum is commonly treated by a minimally invasive procedure called a Nuss procedure.
-Prior to the Nuss procedure, surgeons commonly request CT examination to document the Haller index, which quantifies the severity of the pectus deformity.
+Prior to the Nuss procedure, surgeons commonly request CT examination to document the Haller index, which quantifies the severity of the pectus deformity .
 To calculate the Haller index, low tube current (mA) images are obtained through the level of the greatest degree of pectus deformity.
 The Haller index is equal to the transverse left-to-right diameter of the chest, divided by the anterior-to-posterior diameter.
 The greater the Haller index, the more severe the pectus.
 A patient with a Haller index greater than 3.
  is considered a surgical candidate.
-Condon VR: Pneumonia in children, J Thorac Imaging 6:31-44, 1991.
-Donnelly LF: Maximizing the usefulness of imaging in children with community-acquired pneumonia, AJR 172:505-512, 1999.
-Donnelly LF, Klosterman LA: Subpleural sparing: a CT finding of lung contusion in children, Radiology 204:385-387, 1997.
-Donnelly LF, Frush DP: Abnormalities of the chest wall in pediatric patients, AJR 173:1595-1601, 1999.
-Donnelly LF, Frush DP: Localized lucent chest lesions in neonates: causes and differentiation, AJR 172:1651-1658, 1999.
-Griscom NT: Respiratory problems of early life now allowing survival into adulthood: concepts for radiologists, AJR 158:1-8, 1992.
-Griscom NT, Wohl MB, Kirkpatrick JA: Lower respiratory infections: how infants differ from adults, Radiol Clin North Am 16:367-387, 1978.
-Kunisaki SM, Barnewolt CE, Estroff JA, et al: Large fetal congenital cystic adenomatoid malformations: growth trends and patient survival, J Pediatr Surg 42:404-410, 2007.
-Merton DF: Diagnostic imaging of mediastinal masses in children, AJR 158:825-832, 1992.
-Swischuk KE, John SD: Immature lung problems: can our nomenclature be more specific? AJR 166: 917-918, 1996.
-Singleton EB: Radiologic consideration of intensive care in the premature infant, Radiology 140:291-300, 1981.
-FIGURE 3-55.
-Pectus excavatum.
-CT shows severe concavity of anterior chest wall.
-White lines are the anterior-to-posterior and left-to-right diameters of the chest.
-These are measured to calculate the Haller index, a quantitative measure of pectus severity.
-Chest • 61 

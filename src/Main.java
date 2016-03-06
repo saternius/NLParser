@@ -10,7 +10,7 @@ import java.io.Writer;
 	 static String output;
 	    public static void main(String[] args) throws IOException {
 	       console.log("processing..");
-	       PDFReader pdfReader = new PDFReader();
+	       PDFReader pdfReader = new PDFReader((float)9.0,4.8717113);
 	       pdfReader.setFilePath("chest.pdf");
 	       output = pdfReader.ToText();
 	       

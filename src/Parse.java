@@ -40,9 +40,11 @@ public class Parse {
 	}
 
 	public static String removeFigsAndTablesRefs(String output) {
-		output = output.replaceAll(" \\(see Fig.\n[0-9]*-[0-9]*\\)", "");
-		output = output.replaceAll(" \\(Fig.\n[0-9]*-[0-9]*[A-Z]*[,]*[\\s]*[A-Z]*\\)", "");
-		return output;
+		//output = output.replaceAll(" \\(see Fig.\n[0-9]*-[0-9]*\\)", "");
+		//output = output.replaceAll(" \\(Fig.\n[0-9]*-[0-9]*[A-Z]*[,]*[\\s]*[A-Z]*\\)", "");
+		
+		return output.replaceAll("\\([A-z 0-9 \n;,.-]*Fig[A-z 0-9 \n;,.-]*\\)","");//\([A-z]*Fig[A-z 0-9 \n;,.-]*\)
+		
 	}
 
 	public static String removeAllTitles(String output) {
