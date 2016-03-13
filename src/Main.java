@@ -10,10 +10,12 @@ import java.io.Writer;
 	 static String output;
 	    public static void main(String[] args) throws IOException {
 	       console.log("processing..");
-	       PDFReader pdfReader = new PDFReader((float)9.0,4.8717113);
+	       PDFReader pdfReader = new PDFReader((float)4.0,(float)4.8717113);
 	       pdfReader.setFilePath("chest.pdf");
-	       output = pdfReader.ToText();
+	      
 	       
+	       
+	       output = pdfReader.ToText();
 	       output = Parse.removeAllDashNewLines(output);
 	       out("out1.txt");
 	       output = Parse.removeAllTitles(output);
@@ -27,6 +29,8 @@ import java.io.Writer;
 	       output = Parse.removeFigsAndTablesRefs(output);
 	       out("out6.txt");
 	       
+	       
+	      // pdfReader.exportImages();
 	       console.log("DONE");
 	}
 	    
